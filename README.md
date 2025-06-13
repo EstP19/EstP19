@@ -1,5 +1,12 @@
 # 👋 **Hola, soy Esteban** 👨‍💻
 
+<p align="center">
+  <a href="https://github.com/EstP19">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer%20|%20Node.js%20%26%20NestJS%20%7C%20Express;Python%20%26%20Django%20%7C%20Flask%20%7C%20FastAPI;Java%20%26%20Spring+Boot%20%7C%20Maven%20%7C%20JWT;GraphQL%20%7C%20REST%20%7C%20MongoDB%20%7C%20PostgreSQL;SaaS%20%7C%20n8n%20%7C%20IA+Agents%20%7C%20Docker;Clean+Architecture%20%7C%20MFA%20%7C%20Microservices;&center=true&width=1000&height=45&color=00FFA5&vCenter=true&size=22">
+  </a>
+</p>
+
+
 Explorando, creando y aprendiendo cada día. 🚀  
 Estudiante de desarrollo de software apasionado por el crecimiento constante. 🌱  
 Amante del backend, los sistemas distribuidos y la automatización con propósito. 🧠  
