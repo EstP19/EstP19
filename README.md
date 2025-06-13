@@ -24,14 +24,17 @@ Desarrollador de software Full Stack con foco en **Backend**. Me apasiona diseñ
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EstP19&layout=compact&theme=tokyonight)
 
----
-
-## 📬 Contacto
-
-- 📧 **Correo:** estebanp192001@gmail.com (o el tuyo real)
-- 💼 [LinkedIn](https://www.linkedin.com/in/esteb2001/)
-- 🌐 Portafolio (en construcción)
+![GitHub Snake](https://github.com/EstP19/EstP19/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-> "El código limpio es como buena poesía: simple, clara y con intención." — Esteban
+## 🌐 Redes y contacto
+
+- 📧 **Correo:** estebanp192001@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/esteban/)
+- 📸 [Instagram](https://instagram.com/thisban.dev)
+- 🟣 [Discord](https://discord.com/users/710950430624055376)
+
+---
+
+> _"El código limpio es como buena poesía: simple, clara y con intención."_ — Esteban
