@@ -13,7 +13,7 @@ Amante del backend, los sistemas distribuidos y la automatización con propósit
 Enamorado de construir soluciones con IA, SaaS y arquitectura limpia. 🤖  
 Fan del código abierto y las ideas que cambian el juego. 🪄  
 Foco total en crear soluciones simples que realmente ayuden a las personas. 🔍  
->_ Con ambición por el conocimiento y proyectos con impacto real. 📚_
+> Con ambición por el conocimiento y proyectos con impacto real. 📚
 
 
 
