@@ -1,7 +1,7 @@
 # 👋 Hola, soy Esteban 👨‍💻
-
+<pre style="background-color: #ffdddd; padding: 10px; border-radius: 5px; font-family: monospace;">
 Desarrollador de software Full Stack con foco en **Backend**. Me apasiona diseñar e implementar **APIs seguras y escalables** usando tecnologías modernas como **Node.js**, **NestJS**, **GraphQL**, y **MongoDB/PostgreSQL**. Actualmente me encuentro integrando sistemas como autenticación multifactor, OAuth2, facturación electrónica y arquitecturas desacopladas.
-
+</pre>
 ---
 
 ## 🛠️ Tecnologías & Herramientas
